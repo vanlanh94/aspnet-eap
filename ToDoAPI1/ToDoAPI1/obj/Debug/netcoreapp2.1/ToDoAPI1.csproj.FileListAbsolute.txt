@@ -1,0 +1,13 @@
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\bin\Debug\netcoreapp2.1\ToDoAPI1.deps.json
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\bin\Debug\netcoreapp2.1\ToDoAPI1.runtimeconfig.json
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\bin\Debug\netcoreapp2.1\ToDoAPI1.runtimeconfig.dev.json
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\bin\Debug\netcoreapp2.1\ToDoAPI1.dll
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\bin\Debug\netcoreapp2.1\ToDoAPI1.pdb
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.csproj.CoreCompileInputs.cache
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.RazorAssemblyInfo.cache
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.RazorAssemblyInfo.cs
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.AssemblyInfoInputs.cache
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.AssemblyInfo.cs
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.dll
+C:\Users\bomc4\Desktop\eap\Date_1023\ToDoAPI1\ToDoAPI1\obj\Debug\netcoreapp2.1\ToDoAPI1.pdb
